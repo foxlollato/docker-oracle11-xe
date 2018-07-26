@@ -8,8 +8,8 @@ Few steps to build and run a Docker container running Oracle 11.2.0.2 Express Ed
     1. PERSISTENT: "./dockerMaker.sh run [LOCAL_VOLUME] [ORACLE_PASSWORD]"
       * **Remember [LOCAL_VOLUME] to next run.**
     2. NON PERSISTENT: "./dockerMaker.sh run [ORACLE_PASSWORD]"
-4. Wait for this output message:
-    **\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#**
+4. Wait output message:
+ *   **\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#**
     **DATABASE IS READY TO USE!**
     **\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#**
 5. Finally, have fun! Connect to your oracle database setting connection configuration to localhost and port 1521. Apex listen 8080 port.
