@@ -12,6 +12,8 @@ usage() {
 
         LICENSE UPL 1.0
 
+        Copyright (c) 2018 "Vitor Hugo Lollato"
+
 EOF
     exit 1
 }
