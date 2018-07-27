@@ -11,4 +11,4 @@ Few steps to build and run a Docker container running Oracle 11.2.0.2 Express Ed
  *   **\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#**
     **DATABASE IS READY TO USE!**
     **\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#**
-5. Finally, have fun! Connect to your oracle database setting connection configuration to localhost and port 1521. Apex listen 8080 port.
+5. Finally, have fun! Connect to your oracle database setting connection configuration to localhost and port 1521. Apex listen 8080 port. Default user is SYSTEM.
